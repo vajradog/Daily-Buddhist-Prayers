@@ -1,7 +1,7 @@
 {
   "name": "dailyprayers",
-  "version": "1.0.0",
-  "description": "DailyPrayers: An Ionic project",
+  "version": "2.0.0",
+  "description": "Daily Buddhist Prayers",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",

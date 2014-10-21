@@ -256,3 +256,10 @@ Oct 21 09:51:58 cpe-68-174-72-157.nyc.res.rr.com rtcreporting[9452] <Debug>: set
 2014-10-21 10:08:57.329 Daily Prayers[9792:1559575] [CDVTimer][TotalPluginStartup] 0.393987ms
 2014-10-21 10:08:58.292 Daily Prayers[9792:1559575] Resetting plugins due to page load.
 2014-10-21 10:08:58.941 Daily Prayers[9792:1559575] Finished load of: file:///Users/VajraCreations/Library/Developer/CoreSimulator/Devices/5FE431BD-B401-40EB-8E75-782E1FD74E0A/data/Containers/Bundle/Application/DCF271D6-688D-4579-B3D8-2E57F58D624C/Daily%20Prayers.app/www/index.html#/app/all
+2014-10-21 12:23:11.526 Daily Prayers[11116:1954925] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 12:23:11.527 Daily Prayers[11116:1954925] Multi-tasking -> Device: YES, App: YES
+2014-10-21 12:23:11.838 Daily Prayers[11116:1954925] Unlimited access to network resources
+2014-10-21 12:23:13.143 Daily Prayers[11116:1954925] [CDVTimer][keyboard] 0.074029ms
+2014-10-21 12:23:13.143 Daily Prayers[11116:1954925] [CDVTimer][TotalPluginStartup] 0.280976ms
+2014-10-21 12:23:15.192 Daily Prayers[11116:1954925] Resetting plugins due to page load.
+2014-10-21 12:23:15.894 Daily Prayers[11116:1954925] Finished load of: file:///Users/VajraCreations/Library/Developer/CoreSimulator/Devices/5FE431BD-B401-40EB-8E75-782E1FD74E0A/data/Containers/Bundle/Application/557A5A97-40C4-4579-ABC7-F38FA7827A4C/Daily%20Prayers.app/www/index.html#/app/all

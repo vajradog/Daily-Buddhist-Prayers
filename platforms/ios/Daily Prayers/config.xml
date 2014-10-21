@@ -28,9 +28,23 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
+    <icon height="60" src="platforms/ios/Daily Prayers/Resources/icons/icon-60.png" width="60" />
+    <icon height="120" src="platforms/ios/Daily Prayers/Resources/icons/icon-60@2x.png" width="120" />
+    <icon height="76" src="platforms/ios/Daily Prayers/Resources/icons/icon-76.png" width="76" />
+    <icon height="152" src="platforms/ios/Daily Prayers/Resources/icons/icon-76@2x.png" width="152" />
+    <icon height="40" src="platforms/ios/Daily Prayers/Resources/icons/icon-40.png" width="40" />
+    <icon height="80" src="platforms/ios/Daily Prayers/Resources/icons/icon-40@2x.png" width="80" />
+    <icon height="57" src="iplatforms/ios/Daily Prayers/Resources/icons/icon.png" width="57" />
+    <icon height="114" src="platforms/ios/Daily Prayers/Resources/icons/icon@2x.png" width="114" />
+    <icon height="72" src="platforms/ios/Daily Prayers/Resources/icons/icon-72.png" width="72" />
+    <icon height="144" src="platforms/ios/Daily Prayers/Resources/icons/icon-72@2x.png" width="144" />
+    <icon height="29" src="platforms/ios/Daily Prayers/Resources/icons/icon-small.png" width="29" />
+    <icon height="58" src="platforms/ios/Daily Prayers/Resources/icons/icon-small@2x.png" width="58" />
+    <icon height="50" src="platforms/ios/Daily Prayers/Resources/icon-50.png" width="50" />
+    <icon height="100" src="platforms/ios/Daily Prayers/Resources/icon-50@2x.png" width="100" />
     <name>Daily Prayers</name>
     <description>
-        An Ionic Framework and Cordova project.
+        Daily Buddhist Prayers
     </description>
     <author email="vajradog@gmail.com" href="http://vajradog.com">
       Thupten N. Chakrishar
@@ -41,4 +55,5 @@
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="none" />
+    <preference name="AutoHideSplashScreen" value="false" />
 </widget>
